@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">David Bonamigo Bianchetti</h1>
 
-<!--
-**d4vidd-22/d4vidd-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  desenvolvedor de software com foco em sistemas, performance e código robusto
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,nodejs,python,rust,mysql" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  C • C++ • C# • TypeScript • JavaScript • Node.js • Python • Rust • SQL
+</p>
+
+<p align="center">
+  ambiente linux • engenharia de software • backend • baixo nível
+</p>
+
+<br>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
+</p>
