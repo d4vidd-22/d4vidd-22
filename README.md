@@ -13,4 +13,4 @@
 
 <br>
 
-<p align="center"> <img height="165em" src="https://github-stats-extended.vercel.app/api?username=d4vidd-22&show_icons=true&theme=catppuccin_mocha&hide_border=true" /> <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=d4vidd-22&layout=compact&theme=catppuccin_mocha&hide_border=true" /> </p>
+<p align="center"> <img height="165em" src="https://github-stats-extended.vercel.app/api?username=d4vidd-22&show_icons=true&hide_border=true" /> <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=d4vidd-22&layout=compact&hide_border=true" /> </p>
