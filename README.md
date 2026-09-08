@@ -1,14 +1,14 @@
 <h1 align="center">David</h1>
 
 <p align="center">
-  software engineer • computer scientist • hardening engineer
+  Computer Scientist & Software Engineer
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,nodejs,python,rust" />
 </p>
 <p align="center">
-  backend • low level • devsecops
+  Specialized in DevSecOps, Hardening & Low-Level Backend
 </p>
 
 <br>
