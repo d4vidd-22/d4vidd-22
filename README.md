@@ -1,14 +1,14 @@
 <h1 align="center">David</h1>
 
 <p align="center">
-  desenvolvedor fullstack
+  software engineer • computer scientist • hardening engineer
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,nodejs,python,rust" />
 </p>
 <p align="center">
-  engenharia de software • backend • baixo nível
+  backend • low level • devsecops
 </p>
 
 <br>
