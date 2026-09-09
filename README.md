@@ -13,4 +13,6 @@
 
 <br>
 
-<p align="center"><img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=d4vidd-22&layout=compact&hide_border=true&theme=dark_github" /> </p>
+<p align="center">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=d4vidd-22&layout=compact&hide_border=true&theme=dark_github&cache_seconds=1800" />
+</p>
